@@ -41,4 +41,9 @@ answer파일이 있다면 풀이 방식이 문제 의도와 달랐거나 틀린 
       가장 먼 노드
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/algorithms/tree/master/base/큰 수 만들기">
+      큰 수 만들기
+    </a>
+  </li>
 </ol>
