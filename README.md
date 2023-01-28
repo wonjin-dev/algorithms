@@ -36,4 +36,9 @@ answer파일이 있다면 풀이 방식이 문제 의도와 달랐거나 틀린 
       입국 심사
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/algorithms/tree/master/base/가장 먼 노드">
+      가장 먼 노드
+    </a>
+  </li>
 </ol>
