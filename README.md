@@ -1,4 +1,4 @@
-# Algorithm
+# Algorithms
 
 <details>
   <summary>
@@ -68,6 +68,17 @@
   <summary>
     <h2>Programmers</h2>
   </summary>
+
+  <details open>
+    <summary>
+      <h3>Level 2</h3>
+    </summary>
+    <ul>
+      <li>
+        <a href="./Programmers/Lv2/큰 수 만들기">[Greedy] 큰 수 만들기</a>
+      </li>
+    </ul>
+  </details>
 
   <details open>
     <summary>
