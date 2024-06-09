@@ -7,6 +7,9 @@
 - <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Recursion">Recursion</a>
 - <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/BFS.md">BFS</a>
 - <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/DFS.md">DFS</a>
+- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Graph.md">Graph</a>
+- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Trie">Trie</a>
+- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Heap">Heap</a>
 
 ## Programmers
 
