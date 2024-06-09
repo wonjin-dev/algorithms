@@ -1,26 +1,106 @@
 # Algorithm
 
-## Note
+<details>
+  <summary>
+    <h2>Note</h2>
+  </summary>
 
-- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Linked List">Linked List</a>
-- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/BST">BST</a>
-- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Recursion">Recursion</a>
-- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/BFS.md">BFS</a>
-- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/DFS.md">DFS</a>
-- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Graph.md">Graph</a>
-- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Trie">Trie</a>
-- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Heap">Heap</a>
+  <ul>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Linked List">
+        Linked List
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/BST">
+        BST
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Recursion">
+        Recursion
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/BFS.md">
+        BFS
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/DFS.md">
+        DFS
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Graph.md">
+        Graph
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Trie">
+        Trie
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Heap">
+        Heap
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Hash Table.md">
+        Hash Table
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Greedy.md">
+        Greedy
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Sort.md">
+        Sort
+      </a>
+    </li>
+  </ul>
+</details>
 
-## Programmers
+<details>
+  <summary>
+    <h2>Programmers</h2>
+  </summary>
 
-### Level 3
+  <details open>
+    <summary>
+      <h3>Level 3</h3>
+    </summary>
+    <ul>
+      <li>
+        <a href="./Programmers/Lv3/가장 먼 노드">[Graph] 가장 먼 노드</a>
+      </li>
+    </ul>
+  </details>
+</details>
 
-- <a href="./Programmers/Lv3/가장 먼 노드">[Graph] 가장 먼 노드</a>
+<details>
+  <summary>
+    <h2>LeetCode</h2>
+  </summary>
 
-## LeetCode
-
-- <a href="./LeetCode/21">[Linked List] 21</a>
-- <a href="./LeetCode/938">[DFS] 938</a>
-- <a href="./LeetCode/2265">[DFS] 2265</a>
-- <a href="./LeetCode/230">[BST] 230</a>
-- <a href="./LeetCode/102">[BFS] 102</a>
+  <ul>
+    <li>
+      <a href="./LeetCode/21">[Linked List] 21</a>
+    </li>
+    <li>
+      <a href="./LeetCode/938">[DFS] 938</a>
+    </li>
+    <li>
+      <a href="./LeetCode/2265">[DFS] 2265</a>
+    </li>
+    <li>
+      <a href="./LeetCode/230">[BST] 230</a>
+    </li>
+    <li>
+      <a href="./LeetCode/102">[BFS] 102</a>
+    </li>
+  </ul>
+</details>
