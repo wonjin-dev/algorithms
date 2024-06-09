@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/DFS.md">DFS</a>
 - <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Recursion">Recursion</a>
-- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Linked List.md">Linked List</a>
+- <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/Linked List">Linked List</a>
 - <a href="https://github.com/wonjin-dev/algorithm/blob/main/Note/BST.md">BST</a>
 
 <br/>
