@@ -77,6 +77,9 @@
       <li>
         <a href="./Programmers/Lv2/큰 수 만들기">[Greedy] 큰 수 만들기</a>
       </li>
+      <li>
+        <a href="./Programmers/Lv2/배상 비용 최소화">[Heap] 배상 비용 최소화</a>
+      </li>
     </ul>
   </details>
 
