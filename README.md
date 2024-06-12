@@ -41,6 +41,17 @@
       </li>
     </ul>
   </details>
+
+  <details open>
+    <summary>
+      <h3>Level 4</h3>
+    </summary>
+    <ul>
+      <li>
+        <a href="./Programmers/Lv4/자동완성">[Trie] 자동완성</a>
+      </li>
+    </ul>
+  </details>
 </details>
 
 <details open>
