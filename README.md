@@ -36,6 +36,9 @@
       <li>
         <a href="./Programmers/Lv3/가장 먼 노드">[Hash] 베스트 앨범</a>
       </li>
+      <li>
+        <a href="./Programmers/Lv3/입국심사">[BS] 입국심사</a>
+      </li>
     </ul>
   </details>
 </details>
