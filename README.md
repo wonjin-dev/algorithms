@@ -80,6 +80,9 @@
       <li>
         <a href="./Programmers/Lv2/배상 비용 최소화">[Heap] 배상 비용 최소화</a>
       </li>
+      <li>
+        <a href="./Programmers/Lv2/프린터">[Queue] 프린터</a>
+      </li>
     </ul>
   </details>
 
