@@ -64,7 +64,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>
     <h2>Programmers</h2>
   </summary>
@@ -82,6 +82,9 @@
       </li>
       <li>
         <a href="./Programmers/Lv2/프린터">[Queue] 프린터</a>
+      </li>
+      <li>
+        <a href="./Programmers/Lv2/올바른 괄호">[Stack] 올바른 괄호</a>
       </li>
     </ul>
   </details>
@@ -101,7 +104,7 @@
   </details>
 </details>
 
-<details>
+<details open>
   <summary>
     <h2>LeetCode</h2>
   </summary>
