@@ -39,6 +39,9 @@
       <li>
         <a href="./Programmers/Lv3/입국심사">[BS] 입국심사</a>
       </li>
+      <li>
+        <a href="./Programmers/Lv3/퍼즐 조각 채우기">[BFS] 퍼즐 조각 채우기</a>
+      </li>
     </ul>
   </details>
 
@@ -58,7 +61,6 @@
   <summary>
     <h2>LeetCode</h2>
   </summary>
-
   <ul>
     <li>
       <a href="./LeetCode/21">[Linked List] 21</a>
@@ -76,7 +78,7 @@
       <a href="./LeetCode/102">[BFS] 102</a>
     </li>
     <li>
-      <a href="./LeetCode/3">[Hash Map] 13</a>
+      <a href="./LeetCode/3">[Hash Map] 3</a>
     </li>
   </ul>
 </details>
