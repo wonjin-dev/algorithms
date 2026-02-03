@@ -13,3 +13,4 @@
 - <a href="./BOJ/Greedy/11399">11399</a>
 - <a href="./BOJ/DFS/11400">11400</a>
 - <a href="./BOJ/Binary Search/14003">14003</a>
+- <a href="./BOJ/DFS/14942">14942</a>
