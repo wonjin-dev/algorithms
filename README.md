@@ -5,6 +5,7 @@
 - <a href="./BOJ/Backtracking/1133">1133</a>
 - <a href="./BOJ/String/1305">1305</a>
 - <a href="./BOJ/DP/1463">1463</a>
+- <a href="./BOJ/Greedy/1715">1715</a>
 - <a href="./BOJ/String/1786">1786</a>
 - <a href="./BOJ/Greedy/1931">1931</a>
 - <a href="./BOJ/BFS/1981">1981</a>
