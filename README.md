@@ -1,6 +1,9 @@
 # Algorithms
 
-## BOJ
+<details open>
+  <summary>
+    <h2>BOJ</h2>
+  </summary>
 
 - <a href="./BOJ/1019">1019</a>
 - <a href="./BOJ/1133">1133</a>
@@ -9,6 +12,7 @@
 - <a href="./BOJ/1463">1463</a>
 - <a href="./BOJ/1707">1707</a>
 - <a href="./BOJ/1715">1715</a>
+- <a href="./BOJ/1761">1761</a>
 - <a href="./BOJ/1786">1786</a>
 - <a href="./BOJ/1931">1931</a>
 - <a href="./BOJ/1981">1981</a>
@@ -35,3 +39,4 @@
 - <a href="./BOJ/12904">12904</a>
 - <a href="./BOJ/14003">14003</a>
 - <a href="./BOJ/14942">14942</a>
+</details>
